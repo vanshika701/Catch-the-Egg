@@ -8,7 +8,7 @@ A fun and interactive egg-catching game made with **Python Tkinter**! Move the b
 
 > Catch eggs, score points, and enjoy a farm-themed background with barns, trees, tractors, and clouds.
 
-![Game Screenshot](Images/preview.png) *(Optional - add an image of the game window)*
+![Game Screenshot](preview.png)
 
 ---
 
@@ -31,34 +31,6 @@ A fun and interactive egg-catching game made with **Python Tkinter**! Move the b
 - Required Python libraries:
   - `tkinter` (comes with Python)
   - `Pillow` (for image processing)
-
----
-
-## 📦 Installation
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/catch-the-egg.git
-   cd catch-the-egg
-   ```
-
-2. **Install dependencies**  
-   ```bash
-   pip install pillow
-   ```
-
-3. **Place your image assets**  
-   Create an `Images/` folder and add the following files:
-   - `hen4.png`
-   - `hen3.png`
-   - `egg.png`
-   - `barn.png`
-   - `basket.png`
-   - `tree.png`
-   - `tractor.png`
-   - `cloud.png`
-
-   *(All images must match the file names used in the code.)*
 
 ---
 
@@ -102,5 +74,5 @@ This project is for educational and personal use. Feel free to modify and build 
 
 ## 👩‍💻 Author
 
-Made with ❤️ by [Your Name]  
-Feel free to [connect](mailto:your@email.com)!
+Made with ❤️ by [Vanshika]  
+Feel free to [connect](mailto:vs905snu@email.com)!
